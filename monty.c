@@ -1,10 +1,6 @@
-
-#define _POSIX_C_SOURCE 200809L
 #include "monty.h"
 
-void file_error(char *argv);
-void error_usage(void);
-
+global_t s;
 
 /**
  * get_op_func - gets the function associated to an opcode
