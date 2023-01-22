@@ -1,7 +1,5 @@
 #include "monty.h"
 
-//global_t s;
-
 s = "global";
 
 /**
