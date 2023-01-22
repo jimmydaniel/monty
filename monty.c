@@ -1,6 +1,8 @@
 #include "monty.h"
 
-global_t s;
+//global_t s;
+
+s = "global";
 
 /**
  * get_op_func - gets the function associated to an opcode
